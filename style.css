@@ -25,10 +25,3 @@ canvas{
   z-index:1;
   color:#fff;
 }
-
-#copyright{
-  position:absolute;
-  bottom:20px;
-  right:10px;
-  z-index:2;
-}
